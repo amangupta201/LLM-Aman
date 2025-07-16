@@ -214,4 +214,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Note**: This is an educational implementation focused on understanding transformer architecture. For production use, consider using established libraries like HuggingFace Transformers.
+
